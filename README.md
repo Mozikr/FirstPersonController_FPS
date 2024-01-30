@@ -5,22 +5,24 @@ The controller is responsible for walking, running and jumping with the gun in t
 Also included: weapon sway, weapon bobbing, reload and shot animation.
 
 
-<h2 align="center">Classic drag and roll</h2>
+<h2 align="center">Fire and reload</h2>
 <p align="center">
   <img src="Image/fire.gif"/>
 </p>
 
-<h2 align="center">Classic drag and roll</h2>
+<h2 align="center">Fire while walking</h2>
+<p align="center">
+  <img src="Image/walk_fire.gif"/>
+</p>
+
+<h2 align="center">Impact after fire</h2>
 <p align="center">
   <img src="Image/impact.gif"/>
 </p>
 
-<h2 align="center">Throw using button</h2>
+<h2 align="center">Target</h2>
 <p align="center">
   <img src="Image/target.gif"/>
 </p>
 
-<h2 align="center">Bump</h2>
-<p align="center">
-  <img src="Image/walk_fire.gif"/>
-</p>
+
