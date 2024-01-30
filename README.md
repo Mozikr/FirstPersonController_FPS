@@ -1,4 +1,4 @@
-## First Person Controller (FPS)
+## First Person Controller (FPS) :gun:
 ### Made with C# and Unity Engine
 
 The controller is responsible for walking, running and jumping with the gun in the hand. Shooting mechanics with ammo counter(controller) have also been implemented, allowing you to fire a single shot with 1s delay beetwen next one. 
